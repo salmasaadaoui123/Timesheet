@@ -34,6 +34,7 @@ public class User implements Serializable {
 	
 	@Enumerated(EnumType.STRING)
 	Role role; 
+//test 
 	
 	public User() {	}
 
